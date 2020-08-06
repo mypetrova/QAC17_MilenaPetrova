@@ -1,10 +1,8 @@
-public class GitClass{
-private WebDriver driver;
+public class GitClass {
+    private WebDriver driver;
 
-@BeforeMethod
-public void setUp(){
+    @BeforeMethod
+    public void setUp() {
 
-}
-
-
+    }
 }
